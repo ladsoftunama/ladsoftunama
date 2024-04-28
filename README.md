@@ -38,7 +38,7 @@ Para voce universitario junte-se a nós como membro dá LADSOFT para isso verifi
 
 Para saber mais sobre a LADSOFT e como você pode se envolver, entre em contato conosco:
 
-- **Email:** ladsoft.unama@gmail.com
+- **Email:** <ladsoft.unama@gmail.com>
 - **Whastapp:** [Entre em contato a um clique](https://wa.me/5591984837847)
 
 Siga-nos nas redes sociais para ficar atualizado sobre nossos projetos e eventos:
@@ -48,6 +48,14 @@ Siga-nos nas redes sociais para ficar atualizado sobre nossos projetos e eventos
 Junte-se a nós nesta jornada emocionante de desenvolvimento de software, gamificação e inovação digital!
 
 ## Projetos em Destaque 🚀
+
+### [App Notai academico📱](https://github.com/ladsoftunama/App-Calculadora-de-Notas-Academicas-Unama)
+
+![img](/imagens/a.png)
+
+- Desenvolvido com Flutter
+- [Link para acessa o projeto](https://github.com/ladsoftunama/App-Calculadora-de-Notas-Academicas-Unama)
+- [Link para download app](https://github.com/ladsoftunama/App-Calculadora-de-Notas-Academicas-Unama/releases)
 
 ### [Site de Adoção de Animais 🐾](https://github.com/marco0antonio0/trabalho_extensao_medVet)
 
@@ -59,6 +67,16 @@ Junte-se a nós nesta jornada emocionante de desenvolvimento de software, gamifi
 - Gerenciamento de banco de dados MySQL
 - Armazenamento no Firebase
 - [Link para o site](https://adote.nova-work.cloud/)
+
+### [App Calculadora de notas academicas](hhttps://github.com/ladsoftunama/App-Calculadora-de-Notas-Academicas-Unama)
+
+![img](/imagens/Frame%2016.png)
+
+- 🚧 Em desenvolvimento 🚧
+
+- Desenvolvido pela equipe LADSOFTUNAMA
+- Desenvolvido com Flutter
+<!-- - [Link para o site](https://adote.nova-work.cloud/) -->
 
 ## Estudos em Andamento 📈
 
